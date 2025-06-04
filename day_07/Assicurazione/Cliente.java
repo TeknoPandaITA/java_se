@@ -1,4 +1,4 @@
-package day_07.assicurazione;
+package day_07.Assicurazione;
 
 import java.time.LocalDate;
 

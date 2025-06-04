@@ -1,4 +1,4 @@
-package day_12;
+package day_12.Employee;
 
 import day_12.Employee.Employee;
 import day_12.Employee.EmployeeController;
